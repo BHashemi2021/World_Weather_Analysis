@@ -10,14 +10,16 @@ Jack needs help answering a question: How might we provide real-time suggestions
 
 #### Task: 
 Collect and analyze weather data across cities worldwide.
+
 #### Purpose: 
 PlanMyTrip will use the data to recommend ideal hotels based on clients' weather preferences.
+
 #### Method: 
 Create a Pandas DataFrame with 500 or more of the world's unique cities and their weather data in real time. This process will entail collecting, analyzing, and visualizing the data.
 
 Your analysis of the data will be split into three main parts, or stages.
 
-### 1- Collect the Data
+#### 1- Collect the Data
 
 * Use the NumPy module to generate more than 1,500 random latitudes and longitudes.
 * Use the citipy module to list the nearest city to the latitudes and longitudes.
@@ -32,29 +34,29 @@ Your analysis of the data will be split into three main parts, or stages.
   * Cloudiness
   * Wind speed
   
-### 2- Exploratory Analysis with Visualization
+#### 2- Exploratory Analysis with Visualization
 
-Create scatter plots of the weather data for the following comparisons:
-  Latitude versus temperature
-  Latitude versus humidity
-  Latitude versus cloudiness
-  Latitude versus wind speed
+* Create scatter plots of the weather data for the following comparisons:
+   * Latitude versus temperature
+   * Latitude versus humidity
+   * Latitude versus cloudiness
+   * Latitude versus wind speed
   
-Determine the correlations for the following weather data:
-  Latitude and temperature
-  Latitude and humidity
-  Latitude and cloudiness
-  Latitude and wind speed
+* Determine the correlations for the following weather data:
+   * Latitude and temperature
+   * Latitude and humidity
+   * Latitude and cloudiness
+   * Latitude and wind speed
   
-Create a series of heatmaps using the Google Maps and Places API that showcases the following:
-  Latitude and temperature
-  Latitude and humidity
-  Latitude and cloudiness
-  Latitude and wind speed
+* Create a series of heatmaps using the Google Maps and Places API that showcases the following:
+   * Latitude and temperature
+   * Latitude and humidity
+   * Latitude and cloudiness
+   * Latitude and wind speed
   
-### 3- Visualize Travel Data
+#### 3- Visualize Travel Data
 
-Create a heatmap with pop-up markers that can display information on specific cities based on a customer's travel preferences. Complete these steps:
+* Create a heatmap with pop-up markers that can display information on specific cities based on a customer's travel preferences. Complete these steps:
 
   1. Filter the Pandas DataFrame based on user inputs for a minimum and maximum temperature.
   2. Create a heatmap for the new DataFrame.

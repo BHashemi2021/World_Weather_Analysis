@@ -1,4 +1,7 @@
-# World Weather Analysis
+------------------------------
++ # World Weather Analysis
+----------------------------
+
 A Repo for Module 6 on Python APIs
 
 ### First see video "6.0.4 Welcome to APIs and World Wide Weather" for taking notes for the introduction section.

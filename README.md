@@ -1,5 +1,5 @@
 ```diff
-+ World Weather Analysis
+World Weather Analysis
 
 ```
 

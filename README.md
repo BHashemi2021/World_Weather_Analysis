@@ -33,9 +33,9 @@ Having retrieved the latitude and longitude for 2000 cities and removing the ept
 
 Refactoring our previous marker layer map code we created a marker layer map that will have pop-up markers for each city on the map.
 
-================================
+--------------------------------------------------
 <img src="https://github.com/BHashemi2021/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png" width="750" height="422">
-================================
+
 
 ## 3: Creating a Travel Itinerary Map 
 Using the Google Directions API we created a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. Then, we created a marker layer map with a pop-up marker for each city on the itinerary.

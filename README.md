@@ -43,9 +43,6 @@ The round-trip travel map between four stops is provided below:
 
 ![WeatherPy_travel_map.png]()
 
-In Step 8, use the provided concat() function code snippet to combine the four separate city DataFrames into one DataFrame.
-If you’d like a hint on combining DataFrames into one DataFrame using the concat() function, that’s totally okay. If not, that’s great too. You can always revisit this later if you change your mind.
+Refactoring the code through an array of steps we finally created a new marker layer map of the cities on the travel route.
 
-In Steps 9-11, refactor the code from Steps 2-4 to create a new marker layer map of the cities on the travel route.
-
-Take a screenshot of your map and save it to the Vacation_Itinerary folder as WeatherPy_travel_map_markers.png.
+![WeatherPy_travel_map_markers.png]() 

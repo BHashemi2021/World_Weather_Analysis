@@ -40,7 +40,7 @@ Refactoring our previous marker layer map code we created a marker layer map tha
 ## 3: Creating a Travel Itinerary Map 
 Using the Google Directions API we created a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. Then, we created a marker layer map with a pop-up marker for each city on the itinerary.
 
-Refactoring the code through an array of steps we finally created a new marker layer map of the cities on the travel route.
+Refactoring the code through an array of steps we finally created a new marker layer map of the cities for the travelers to look up the information provided about destanations of interest by clicking on the markers.
 
 --------------------------------
 <img src="https://github.com/BHashemi2021/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png" width="750" height="422">  

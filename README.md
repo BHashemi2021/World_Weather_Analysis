@@ -41,9 +41,9 @@ Using the Google Directions API we created a travel itinerary that shows the rou
 
 Refactoring the code through an array of steps we finally created a new marker layer map of the cities on the travel route.
 
-![WeatherPy_travel_map_markers.png]<img src=https://github.com/BHashemi2021/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png" width="750" height="422">  
+![WeatherPy_travel_map_markers.png]<img src="https://github.com/BHashemi2021/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png" width="750" height="422">  
 
 The round-trip travel map between four stops is provided below:
 
-![WeatherPy_travel_map.png]<img src=https://github.com/BHashemi2021/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map%20.png" width="750" height="422">
+![WeatherPy_travel_map.png]<img src="https://github.com/BHashemi2021/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map%20.png" width="750" height="422">
 

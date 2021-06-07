@@ -33,8 +33,7 @@ Having retrieved the latitude and longitude for 2000 cities and removing the ept
 
 Refactoring our previous marker layer map code we created a marker layer map that will have pop-up markers for each city on the map.
 
-![WeatherPy_vacation_map.png](WeatherPy_vacation_map.png
-https://github.com/BHashemi2021/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
+![WeatherPy_vacation_map.png](https://github.com/BHashemi2021/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
 
 
 ## 3: Creating a Travel Itinerary Map 
